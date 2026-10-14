@@ -1,9 +1,9 @@
 # Cloudera Blueprint: Building Foundational Models
 
+[![Author-Michael Schuler](https://img.shields.io/badge/Author-Michael%20Schuler-555555)](https://github.com/thesneakernet01)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.12%2B-blue.svg)](requirements-gpu.txt)
 [![Cloudera Blueprint](https://img.shields.io/badge/Cloudera-Blueprint-f96702.svg)](METADATA.yaml)
-[![Author-Michael Schuler](https://img.shields.io/badge/Author-Michael%20Schuler-555555)]()
 [![Stars](https://img.shields.io/github/stars/cloudera-applied-ai/AI_Blueprint_Building-Foundational-Models?logo=github&cacheSeconds=300)](https://github.com/cloudera-applied-ai/AI_Blueprint_Building-Foundational-Models/stargazers)
 [![Forks](https://img.shields.io/github/forks/cloudera-applied-ai/AI_Blueprint_Building-Foundational-Models?logo=github&cacheSeconds=300)](https://github.com/cloudera-applied-ai/AI_Blueprint_Building-Foundational-Models/network/members)
 
